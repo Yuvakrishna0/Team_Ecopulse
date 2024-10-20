@@ -12,14 +12,20 @@ Coral Reef Protector uses a state-of-the-art deep learning model to analyze imag
 
 ## Benefits
 
- ### Rapid Assessment: Coral Reef Protector provides instant results, allowing for timely intervention to protect threatened reefs.
- #### Efficiency: Our system eliminates the need for time-consuming manual assessments, saving valuable resources.
- #### Accuracy: Our model has been trained on a vast dataset of coral reef images, ensuring highly accurate predictions.
+ ### Rapid Assessment: 
+ Coral Reef Protector provides instant results, allowing for timely intervention to protect threatened reefs.
+ #### Efficiency:
+ Our system eliminates the need for time-consuming manual assessments, saving valuable resources.
+ #### Accuracy:
+ Our model has been trained on a vast dataset of coral reef images, ensuring highly accurate predictions.
 
 ## Dataset
- ### Description: The dataset consists of images of coral reefs, categorized as healthy or unhealthy.
-### Format: PNG,JPG
-### Size: [128x128]
+ ### Description:
+ The dataset consists of images of coral reefs, categorized as healthy or unhealthy.
+### Format:
+PNG,JPG
+### Size:
+[128x128]
 
 ## Model Architecture
 ### Model Type: Convolutional Neural Network (CNN)

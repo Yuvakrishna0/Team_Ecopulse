@@ -28,6 +28,8 @@ PNG,JPG
 [128x128]
 
 ## Model Architecture
-### Model Type: Convolutional Neural Network (CNN)
-### Architecture:  ResNet
+### Model Type:
+Convolutional Neural Network (CNN)
+### Architecture:
+ResNet
 

@@ -1,6 +1,9 @@
 
  # REEF GUARD:
- we can easily monitor the health of our planet's  coral reefs. That's the goal of Coral Reef Protector, a powerful tool that uses artificial intelligence to assess coral reef health from images.
+ we can easily monitor the health of our planet's  coral reefs. 
+ That's the goal of Coral Reef Protector, a powerful tool that uses artificial intelligence to assess coral reef health from images.
+
+ 
 ![REEF](https://github.com/user-attachments/assets/b9e0dbee-b6ca-4100-b185-6eb54088b57c)
 
 ## How it Works
